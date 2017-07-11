@@ -1,3 +1,4 @@
+#include <iostream>
 //需保存的信息  
 class Memento    
 {  
